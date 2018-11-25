@@ -1,4 +1,4 @@
-apiVersion: apps/v3
+apiVersion:v3
 kind: Deployment
 metadata:
   name: nginx-deployment
