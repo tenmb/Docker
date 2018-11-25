@@ -1,0 +1,5 @@
+apiVersion:v3
+Kind: Deployment
+spec:
+image:ubuntu
+CMD ["echo", "Docker test by tenmb -01"]
